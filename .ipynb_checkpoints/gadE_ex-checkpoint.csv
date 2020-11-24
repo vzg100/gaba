@@ -1,0 +1,38 @@
+Genome,Genome ID,PATRIC ID,RefSeq Locus Tag,Gene,Product,Length (NT),Length (AA),ALN Length,Identity,Query cover,Subject cover,Hit from,Hit to,Score,E value
+Escherichia coli strain AF31-11BH,562.34013,fig|562.34013.peg.2610,DWZ23_18790,,"Transcriptional activator GadE",528,175,175,100,100,100,1,175,354,4e-123
+Escherichia coli strain AM12-30,562.34011,fig|562.34011.peg.4635,DW140_21085,,"Transcriptional activator GadE",528,175,175,100,100,100,1,175,354,4e-123
+Escherichia coli strain AM22-15AC,562.34006,fig|562.34006.peg.1968,DW258_10150,,"Transcriptional activator GadE",528,175,175,100,100,100,1,175,354,4e-123
+Escherichia coli strain AM23-14AC,562.34005,fig|562.34005.peg.1354,DW643_18130,,"Transcriptional activator GadE",528,175,175,100,100,100,1,175,354,4e-123
+Escherichia coli strain AM34-8,562.34001,fig|562.34001.peg.2777,DW834_22730,,"Transcriptional activator GadE",528,175,175,100,100,100,1,175,354,4e-123
+Escherichia coli strain AF13-13-H,562.33999,fig|562.33999.peg.1564,DWV81_12060,,"Transcriptional activator GadE",528,175,175,100,100,100,1,175,354,4e-123
+Escherichia coli strain AF14-15AC,562.33998,fig|562.33998.peg.2443,DWW01_18140,,"Transcriptional activator GadE",528,175,175,100,100,100,1,175,354,4e-123
+Escherichia coli strain AF14-7LB,562.33997,fig|562.33997.peg.3036,DWW26_20140,,"Transcriptional activator GadE",528,175,175,100,100,100,1,175,354,4e-123
+Escherichia coli strain AF17-4,562.33996,fig|562.33996.peg.2519,DWW92_18830,,"Transcriptional activator GadE",528,175,175,100,100,100,1,175,354,4e-123
+Escherichia coli strain AF17-8LB,562.33995,fig|562.33995.peg.2832,DWW98_21280,,"Transcriptional activator GadE",528,175,175,100,100,100,1,175,354,4e-123
+Escherichia coli strain OM02-28,562.33988,fig|562.33988.peg.3975,DXB20_05540,,"Transcriptional activator GadE",528,175,175,100,100,100,1,175,354,4e-123
+Escherichia coli strain OM01-11,562.33987,fig|562.33987.peg.738,DXB07_09945,,"Transcriptional activator GadE",528,175,175,100,100,100,1,175,354,4e-123
+Escherichia coli strain OM02-11AC,562.33986,fig|562.33986.peg.4040,DXB10_05545,,"Transcriptional activator GadE",528,175,175,100,100,100,1,175,354,4e-123
+Escherichia coli strain OM02-12AC,562.33985,fig|562.33985.peg.3968,DXB13_05540,,"Transcriptional activator GadE",528,175,175,100,100,100,1,175,354,4e-123
+Escherichia coli strain AM23-18AC,562.34004,fig|562.34004.peg.2770,DW647_19490,,"Transcriptional activator GadE",528,175,175,99,100,100,1,175,352,2e-122
+Escherichia coli strain AM22-14AC,562.34007,fig|562.34007.peg.4280,DW255_10740,,"Transcriptional activator GadE",528,175,175,99,100,100,1,175,352,2e-122
+Escherichia coli strain AF18-23LB,562.33994,fig|562.33994.peg.5226,DWX09_08185,,"Transcriptional activator GadE",528,175,175,99,100,100,1,175,352,2e-122
+Escherichia coli strain AM20-38,562.34003,fig|562.34003.peg.1890,DW236_03655,,"Transcriptional activator GadE",528,175,175,99,100,100,1,175,352,3e-122
+Escherichia coli strain AM28-16AC,562.34002,fig|562.34002.peg.3411,DW737_20025,,"Transcriptional activator GadE",528,175,175,99,100,100,1,175,352,3e-122
+Escherichia coli strain AF17-8LB,562.33995,fig|562.33995.peg.2847,DWW98_21350,,"Transcriptional regulator DctR, LuxR family",531,176,176,24,95,95,1,167,67,4e-12
+Escherichia coli strain AF18-23LB,562.33994,fig|562.33994.peg.5205,DWX09_08110,,"Transcriptional regulator DctR, LuxR family",531,176,176,24,95,95,1,167,67,4e-12
+Escherichia coli strain AM12-30,562.34011,fig|562.34011.peg.4650,DW140_21160,,"Transcriptional regulator DctR, LuxR family",531,176,176,24,95,95,1,167,67,5e-12
+Escherichia coli strain AM22-14AC,562.34007,fig|562.34007.peg.4275,DW255_10715,,"Transcriptional regulator DctR, LuxR family",531,176,176,24,95,95,1,167,67,6e-12
+Escherichia coli strain AM22-15AC,562.34006,fig|562.34006.peg.1963,DW258_10125,,"Transcriptional regulator DctR, LuxR family",531,176,176,24,95,95,1,167,67,6e-12
+Escherichia coli strain AM23-14AC,562.34005,fig|562.34005.peg.1349,DW643_18105,,"Transcriptional regulator DctR, LuxR family",531,176,176,24,95,95,1,167,67,6e-12
+Escherichia coli strain AM23-18AC,562.34004,fig|562.34004.peg.2765,DW647_19465,,"Transcriptional regulator DctR, LuxR family",531,176,176,24,95,95,1,167,67,6e-12
+Escherichia coli strain AM28-16AC,562.34002,fig|562.34002.peg.3416,DW737_20050,,"Transcriptional regulator DctR, LuxR family",531,176,176,24,95,95,1,167,67,6e-12
+Escherichia coli strain AM34-8,562.34001,fig|562.34001.peg.2772,DW834_22705,,"Transcriptional regulator DctR, LuxR family",531,176,176,24,95,95,1,167,67,6e-12
+Escherichia coli strain AF14-15AC,562.33998,fig|562.33998.peg.2438,DWW01_18115,,"Transcriptional regulator DctR, LuxR family",531,176,176,24,95,95,1,167,67,6e-12
+Escherichia coli strain AF14-7LB,562.33997,fig|562.33997.peg.3031,DWW26_20115,,"Transcriptional regulator DctR, LuxR family",531,176,176,24,95,95,1,167,67,6e-12
+Escherichia coli strain OM01-11,562.33987,fig|562.33987.peg.743,DXB07_09970,,"Transcriptional regulator DctR, LuxR family",531,176,176,24,95,95,1,167,67,6e-12
+Escherichia coli strain AF31-11BH,562.34013,fig|562.34013.peg.2627,DWZ23_18865,,"Transcriptional regulator DctR, LuxR family",531,176,176,24,95,95,1,167,67,6e-12
+Escherichia coli strain OM02-28,562.33988,fig|562.33988.peg.3990,DXB20_05615,,"Transcriptional regulator DctR, LuxR family",531,176,176,24,95,95,1,167,67,6e-12
+Escherichia coli strain OM02-11AC,562.33986,fig|562.33986.peg.4056,DXB10_05620,,"Transcriptional regulator DctR, LuxR family",531,176,176,24,95,95,1,167,67,6e-12
+Escherichia coli strain OM02-12AC,562.33985,fig|562.33985.peg.3984,DXB13_05615,,"Transcriptional regulator DctR, LuxR family",531,176,176,24,95,95,1,167,67,6e-12
+Escherichia coli strain AM20-38,562.34003,fig|562.34003.peg.1875,DW236_03580,,"Transcriptional regulator DctR, LuxR family",531,176,176,23,95,95,1,167,63,1e-10
+Escherichia coli strain AF13-13-H,562.33999,fig|562.33999.peg.1559,DWV81_12035,,"Transcriptional regulator DctR, LuxR family",387,128,128,25,70,91,3,119,54,1e-7
